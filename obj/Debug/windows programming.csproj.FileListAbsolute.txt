@@ -1,0 +1,7 @@
+C:\Users\ma hmood\source\repos\windows programming\bin\Debug\windows programming.exe.config
+C:\Users\ma hmood\source\repos\windows programming\bin\Debug\windows programming.exe
+C:\Users\ma hmood\source\repos\windows programming\bin\Debug\windows programming.pdb
+C:\Users\ma hmood\source\repos\windows programming\obj\Debug\windows programming.csproj.CoreCompileInputs.cache
+C:\Users\ma hmood\source\repos\windows programming\obj\Debug\windows programming.exe
+C:\Users\ma hmood\source\repos\windows programming\obj\Debug\windows programming.pdb
+C:\Users\ma hmood\source\repos\windows programming\obj\Debug\windows programming.csproj.AssemblyReference.cache
